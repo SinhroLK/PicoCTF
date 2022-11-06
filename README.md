@@ -1,2 +1,2 @@
 # PicoCTF
-WriteUps for PicoCTF challs https://picoctf.org/
+Writeups for PicoCTF challs https://picoctf.org/

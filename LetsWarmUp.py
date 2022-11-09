@@ -1,1 +1,0 @@
-print(bytearray.fromhex("70").decode())

@@ -12,7 +12,6 @@ Category: General skills
 <li>The str_xor function does not need to be reverse engineered for this challenge.</li>
 </ol>
 <h2> Solution </h2>
-
-
+Same solution as PW Crack 3, I just used a for look to iterate over the list of passwords, of which one gave the flag.
 <h2> Flag </h2>
-
+picoCTF{fl45h_5pr1ng1ng_ae0fb77c}
